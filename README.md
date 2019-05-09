@@ -1,0 +1,1 @@
+# JUnit-InjectVacina-com-MutablePicoContainer
